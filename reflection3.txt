@@ -1,0 +1,2 @@
+Git Hub seems nice.
+I'm on lesson 3 from udacity's git training.
